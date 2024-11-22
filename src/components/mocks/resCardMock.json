@@ -1,0 +1,94 @@
+{
+    "info": {
+        "id": "82799",
+        "name": "Bansal Amritsari Kulcha",
+        "cloudinaryImageId": "311920a12206da8f021941ee14c95a84",
+        "locality": "Mansa Devi Complex",
+        "areaName": "Panchkula",
+        "costForTwo": "₹240 for two",
+        "cuisines": [
+            "North Indian"
+        ],
+        "avgRating": 4.4,
+        "parentId": "9704",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "5K+",
+        "sla": {
+            "deliveryTime": 29,
+            "lastMileTravel": 3.9,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "3.9 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-08-05 17:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "pureveg",
+                                "imageId": "v1695133679/badges/Pure_Veg111.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "30% OFF",
+            "subHeader": "UPTO ₹75"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "4.1",
+                "ratingCount": "5K+"
+            },
+            "source": "GOOGLE",
+            "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-5ffeff50-3a56-40ca-9a65-00ecdd2e02cc"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/bansal-amritsari-kulcha-mansa-devi-complex-panchkula-chandigarh-82799",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}

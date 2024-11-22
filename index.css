@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: blanchedalmond;
+}
+.body {
+  margin: 20px 60px;
+}
+.logo {
+  width: 130px;
+}
+.nav-items > ul {
+  display: flex;
+}
+.nav-items > ul > li {
+  padding: 8px;
+
+  list-style-type: none;
+  font-size: 22px;
+}
+.res-card {
+  background-color: bisque;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+}
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.res-card p,
+.res-card h3 {
+  color: black;
+}
+
+.res-card:hover {
+  border: 1px solid rgb(155, 161, 155);
+  cursor: pointer;
+}
+.food-img {
+  width: 180px;
+  height: 200px;
+}
+.cuisine {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+p {
+  padding: 2px 0px;
+}
+.shimmer-container {
+  margin: 30px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.shimmer-card {
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-color: #f0f0f0;
+}
+.login {
+  padding: 10px 5px;
+  padding-top: 0px;
+  background-color: transparent;
+  border-color: transparent;
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+  cursor: pointer;
+}
+.filter-container {
+  display: flex;
+}
+.search-btn {
+  margin-right: 20px;
+}
+.dish-Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.recipeCard {
+  width: 450px;
+  height: 170px;
+  display: flex;
+  justify-content: space-between;
+  background-color: bisque;
+  border-radius: 12px;
+  margin-top: 10px;
+}
+
+.img-dish {
+  width: 155px;
+  height: 143px;
+  margin: 10px;
+}
+.resMenu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.resMenu-container {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.resMenu-container > * {
+  margin: 4px;
+}
+.item-left {
+  margin: 30px 20px;
+}
+.item-left > * {
+  margin-bottom: 3px;
+}
